@@ -1,4 +1,10 @@
 # 🧠 ERIS: Earthquake Risk Intelligence System
+# 🔗 Live Demo
+
+## 🌐 ERIS Digital Twin Dashboard
+https://eris-earthquake-digital-twin-aws-hackathon.streamlit.app/
+
+---
 
 # 🧠 ERIS: Earthquake Risk Intelligence System  
 ## Digital Twin for Seismic Risk & Precursor Intelligence  
@@ -517,4 +523,3 @@ This project is intended for:
 
 # 🌐 ERIS — Earthquake Risk Intelligence System
 ### Digital Twin Intelligence for the Future of Urban Resilience
-

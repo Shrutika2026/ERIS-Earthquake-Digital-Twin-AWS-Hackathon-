@@ -6,7 +6,7 @@ https://eris-earthquake-digital-twin-aws-hackathon.streamlit.app/
 
 ---
 
-# 🧠 ERIS: Earthquake Risk Intelligence System  
+## ERIS: Earthquake Risk Intelligence System  
 ## Digital Twin for Seismic Risk & Precursor Intelligence  
 ### BSc-IT National Award-Winning Research | Mumbai Digital Twin Implementation
 
@@ -378,20 +378,15 @@ ERIS provides the intelligence necessary to:
 
 ```text
 📂 ERIS-Earthquake-Digital-Twin
-├── 📄 app.py
-│   └── Main Digital Twin Dashboard & UI Logic
+├── 📄 app.py (Main Digital Twin Dashboard & UI Logic)
 │
-├── 📄 train_model.py
-│   └── Model Training & Innovation Logic
+├── 📄 train_model.py (Model Training & Innovation Logic)
 │
-├── 📄 earthquake_model.pkl
-│   └── Trained AI Prediction Model
+├── 📄 earthquake_model.pkl (Trained AI Prediction Model)
 │
-├── 📄 requirements.txt
-│   └── Project Dependencies
+├── 📄 requirements.txt (Project Dependencies)
 │
-└── 📄 README.md
-    └── Technical Documentation
+└── 📄 README.md (Technical Documentation)
 ```
 
 ---

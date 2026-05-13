@@ -432,13 +432,6 @@ ERIS supports deployment on:
 
 ---
 
-# 🔗 Live Demo
-
-## 🌐 ERIS Digital Twin Dashboard
-https://eris-earthquake-digital-twin-aws-hackathon.streamlit.app/
-
----
-
 # 🧪 Research Innovation Highlights
 
 ## 🔬 Novel Contributions
